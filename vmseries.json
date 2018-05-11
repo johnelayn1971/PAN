@@ -16,9 +16,9 @@
        }
     },
     "vmName": {
-       "type": "string",
-       "metadata": {
-          "description": "Name of VM-Series VM in the Azure portal"
+      "type": "string",
+      "metadata": {
+        "description": "Name of VM-Series VM in the Azure portal"
        },
        "defaultValue": "VM-Series"
     },
